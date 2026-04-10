@@ -8,7 +8,7 @@ function App() {
   const [page, setPage] = useState("home");
   const [recipes, setRecipes] = useState([]);
   const [grocery, setGrocery] = useState([]);
-  const [user, setUser] = useState("");
+   
 
   return (
     <div>
